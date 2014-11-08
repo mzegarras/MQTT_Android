@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Proyectos/pedidos/mqtt/org.eclipse.paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservicesample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c4da90587d68e6729001113054a93e5af3925676.jar"
+        jar="/Developer/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Proyectos/pedidos/mqtt/org.eclipse.paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservicesample/build/intermediates/pre-dexed/debug/classes-b9936f6d92e1b4ff2c0dcf6168cd9d8f523e44b5.jar"
+        jar="/Proyectos/pedidos/mqtt/org.eclipse.paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservicesample/build/intermediates/exploded-aar/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservice/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="561ca9b7eae0ebe3e994b475606a9e4df65d2d30"/>
+    <item
+        dex="/Proyectos/pedidos/mqtt/org.eclipse.paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservicesample/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-f329b3eab86c0da748007283fa897976b9121495.jar"
+        jar="/Proyectos/pedidos/mqtt/org.eclipse.paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservicesample/build/intermediates/exploded-aar/org.eclipse.paho.android.service.sample2/orgeclipsepahoandroidservice/unspecified/libs/org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e4e7064b9cd19e5127cb730fe1493e3dd3a93e17"/>
+
+</pre-dex-items>
